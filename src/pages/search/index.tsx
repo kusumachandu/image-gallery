@@ -1,7 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import { useState } from "react";
 import { images } from "@/utils/images";
-import { BsSearch } from 'react-icons/bs'
 
 export default function SearchImage() {
 
